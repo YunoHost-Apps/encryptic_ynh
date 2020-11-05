@@ -1,4 +1,4 @@
-# Laverna pour YunoHost
+# Encryptic pour YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/encryptic.svg)](https://dash.yunohost.org/appci/app/encryptic) ![](https://ci-apps.yunohost.org/ci/badges/encryptic.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/encryptic.maintain.svg)  
 [![Installer Encryptic avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=encryptic)
@@ -28,7 +28,7 @@ Comment configurer cette application : via le panneau d'administration, un fichi
 
 ## Documentation
 
- * Documentation officielle : Lien vers la documentation officielle de cette application.
+ * Documentation officielle : https://github.com/encryptic-team/encryptic/wiki
  * Documentation YunoHost : Si une documentation spécifique est nécessaire, n'hésitez pas à contribuer.
 
 ## Caractéristiques spécifiques YunoHost

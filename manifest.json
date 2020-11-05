@@ -3,7 +3,7 @@
     "id": "encryptic",
     "packaging_format": 1,
     "description": {
-        "en": "open-source note-taking application heavily focused on encryption.",
+        "en": "Open-source note-taking application heavily focused on encryption.",
         "fr": "Application de prise de notes open source axée sur le cryptage."
     },
         "version": "0.1.0~ynh1",
