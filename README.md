@@ -24,7 +24,7 @@ The data is private because it is stored by default on your machine (InnoDB and 
 
 ## Configuration
 
-How to configure this app: From an admin panel, a plain file with SSH, or any other way.
+* How to configure this app: From an admin panel.
 
 ## Documentation
 
