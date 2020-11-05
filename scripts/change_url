@@ -34,7 +34,7 @@ final_path=$(ynh_app_setting_get --app=$app --key=final_path)
 #=================================================
 # BACKUP BEFORE UPGRADE THEN ACTIVE TRAP
 #=================================================
-ynh_script_progression --message="Backing up Laverna before changing its URL..." --weight=2
+ynh_script_progression --message="Backing up Encryptic before changing its URL..." --weight=2
 
 # Backup the current version of the app
 ynh_backup_before_upgrade
@@ -104,4 +104,4 @@ ynh_systemd_action --service_name=nginx --action=reload
 # END OF SCRIPT
 #=================================================
 
-ynh_script_progression --message="Change of URL completed for Laverna" --last
+ynh_script_progression --message="Change of URL completed for Encryptic" --last

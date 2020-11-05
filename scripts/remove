@@ -23,7 +23,7 @@ final_path=$(ynh_app_setting_get --app=$app --key=final_path)
 #=================================================
 # REMOVE APP MAIN DIR
 #=================================================
-ynh_script_progression --message="Removing $app main directory..." --weight=3
+ynh_script_progression --message="Removing Encryptic main directory..." --weight=3
 
 # Remove the app directory securely
 ynh_secure_remove --file="$final_path"
@@ -40,4 +40,4 @@ ynh_remove_nginx_config
 # END OF SCRIPT
 #=================================================
 
-ynh_script_progression --message="Removal of Laverna completed" --last
+ynh_script_progression --message="Removal of Encryptic completed" --last

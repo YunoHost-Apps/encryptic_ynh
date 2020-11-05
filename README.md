@@ -1,18 +1,18 @@
 # Encryptic for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/laverna.svg)](https://dash.yunohost.org/appci/app/laverna) ![](https://ci-apps.yunohost.org/ci/badges/laverna.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/laverna.maintain.svg)  
-[![Install Laverna with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=laverna)
+[![Integration level](https://dash.yunohost.org/integration/encryptic.svg)](https://dash.yunohost.org/appci/app/encryptic) ![](https://ci-apps.yunohost.org/ci/badges/encryptic.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/encryptic.maintain.svg)  
+[![Install Encryptic with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=encryptic)
 
 *[Read this readme in english.](./README.md)* 
 
-> *Ce package vous permet d'installer Laverna rapidement et simplement sur un serveur YunoHost.  
+> *Ce package vous permet d'installer Encryptic rapidement et simplement sur un serveur YunoHost.  
 Si vous n'avez pas YunoHost, consultez [le guide](https://yunohost.org/#/install) pour apprendre comment l'installer.*
 
 ## Overview
 Encryptic is an anonymous system, encrypted and without registration required, it is accessible via a web browser (without software installation).
 The data is private because it is stored by default on your machine (InnoDB and localstorage), it is a setting in the settings that will allow you to synchronize it via the cloud on your various devices.
 
-**Shipped version:** 0.7.51
+**Shipped version:** 0.1.0
 
 ## Screenshots
 
@@ -40,8 +40,8 @@ How to configure this app: From an admin panel, a plain file with SSH, or any ot
 
 #### Supported architectures
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/laverna%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/laverna/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/laverna%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/laverna/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/encryptic%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/encryptic/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/encryptic%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/encryptic/)
 
 ## Limitations
 
@@ -53,20 +53,20 @@ How to configure this app: From an admin panel, a plain file with SSH, or any ot
 
 ## Links
 
- * Report a bug: https://github.com/YunoHost-Apps/laverna_ynh/issues
+ * Report a bug: https://github.com/YunoHost-Apps/encryptic_ynh/issues
  * App website: https://encryptic.org/
- * Upstream app repository: https://github.com/Laverna/laverna
+ * Upstream app repository: https://github.com/encryptic-team/encryptic
  * YunoHost website: https://yunohost.org/
 
 ---
 
 ## Developer info
 
-Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/laverna_ynh/tree/testing).
+Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/encryptic_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
 ```
-sudo yunohost app install https://github.com/YunoHost-Apps/laverna_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/encryptic_ynh/tree/testing --debug
 or
-sudo yunohost app upgrade laverna -u https://github.com/YunoHost-Apps/laverna_ynh/tree/testing --debug
+sudo yunohost app upgrade encryptic -u https://github.com/YunoHost-Apps/encryptic_ynh/tree/testing --debug
 ```
