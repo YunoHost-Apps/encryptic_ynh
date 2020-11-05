@@ -16,7 +16,7 @@ The data is private because it is stored by default on your machine (InnoDB and 
 
 ## Screenshots
 
-![](sources/laverna.png)
+![](sources/encryptic.png)
 
 ## Demo
 

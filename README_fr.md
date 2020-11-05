@@ -16,7 +16,7 @@ Les données sont privées, car stockées par défaut sur votre machine (InnoDB 
 
 ## Captures d'écran
 
-![](sources/laverna.png)
+![](sources/encryptic.png)
 
 ## Démo
 
