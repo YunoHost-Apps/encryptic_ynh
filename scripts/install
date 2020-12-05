@@ -62,11 +62,19 @@ ynh_script_progression --message="Configuring NGINX web server..." --weight=2
 ynh_add_nginx_config
 
 #=================================================
+# CREATE DEDICATED USER
+#=================================================
+ynh_script_progression --message="Configuring system user..." --weight=1
+
+# Create a system user
+ynh_system_user_create --username=$app
+
+#=================================================
 # SECURE FILES AND DIRECTORIES
 #=================================================
 
 # Set permissions to app files
-chown -R root: $final_path
+chown -R $app: $final_path
 
 #=================================================
 # SETUP SSOWAT
