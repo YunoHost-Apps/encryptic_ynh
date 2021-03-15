@@ -6,7 +6,7 @@
         "en": "Open-source note-taking application heavily focused on encryption.",
         "fr": "Application de prise de notes open source axée sur le chiffrement."
     },
-        "version": "0.1.0~ynh2",
+        "version": "0.1.0~ynh3",
     "url": "https://www.encryptic.org/",
     "license": "MPL-2.0",
     "maintainer": {
