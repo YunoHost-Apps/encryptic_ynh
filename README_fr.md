@@ -1,7 +1,7 @@
 # Encryptic pour YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/encryptic.svg)](https://dash.yunohost.org/appci/app/encryptic) ![](https://ci-apps.yunohost.org/ci/badges/encryptic.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/encryptic.maintain.svg)  
-[![Installer Encryptic avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=encryptic)
+[![Installer Encryptic avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=encryptic)
 
 *[Read this readme in english.](./README.md)* 
 
