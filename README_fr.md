@@ -40,8 +40,8 @@ Comment configurer cette application : via le panneau d'administration, un fichi
 
 #### Architectures supportées
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/encryptic%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/encryptic/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/encryptic%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/encryptic/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/encryptic.svg)](https://ci-apps.yunohost.org/ci/apps/encryptic/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/encryptic.svg)](https://ci-apps-arm.yunohost.org/ci/apps/encryptic/)
 
 ## Limitations
 
