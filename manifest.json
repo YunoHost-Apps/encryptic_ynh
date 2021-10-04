@@ -3,18 +3,25 @@
     "id": "encryptic",
     "packaging_format": 1,
     "description": {
-        "en": "Open-source note-taking application heavily focused on encryption.",
-        "fr": "Application de prise de notes open source axée sur le chiffrement."
+        "en": "Open-source note-taking application heavily focused on encryption",
+        "fr": "Application de prise de notes open source axée sur le chiffrement"
     },
         "version": "0.1.0~ynh3",
     "url": "https://www.encryptic.org/",
+    "upstream": {
+        "license": "MPL-2.0",
+        "website": "https://www.encryptic.org/",
+        "demo": "https://app.encryptic.org/",
+        "admindoc": "https://github.com/encryptic-team/encryptic/wiki",
+        "code": "https://github.com/encryptic-team/encryptic"
+    },
     "license": "MPL-2.0",
     "maintainer": {
         "name": "eric_G",
         "email": ""
     },
     "requirements": {
-        "yunohost": ">> 4.1.7"
+        "yunohost": ">> 4.2.4"
     },
     "multi_instance": true,
     "services": [
@@ -24,8 +31,7 @@
         "install" : [
             {
             "name": "domain",
-            "type": "domain",
-            "example": "example.com"
+            "type": "domain"
             },
             {
             "name": "path",
