@@ -1,5 +1,0 @@
-SOURCE_URL=https://github.com/encryptic-team/encryptic/releases/download/0.1.0/encryptic-0.1.0-web.zip
-SOURCE_SUM=f59d2cf4fbfec704404c35b8c5aba3c4361a6f3afee95a0beccc16fcc34985e4
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
-SOURCE_IN_SUBDIR=true
