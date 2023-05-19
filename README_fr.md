@@ -30,7 +30,7 @@ The data is private because it is stored by default on your machine (InnoDB and 
 - Robust keyboard shortcuts
 
 
-**Version incluse :** 0.1.0~ynh3
+**Version incluse :** 0.1.0~ynh4
 
 **Démo :** https://app.encryptic.org/
 
