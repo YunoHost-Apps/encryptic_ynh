@@ -47,7 +47,7 @@ The data is private because it is stored by default on your machine (InnoDB and 
 * Official app website: <https://www.encryptic.org/>
 * Official admin documentation: <https://github.com/encryptic-team/encryptic/wiki>
 * Upstream app code repository: <https://github.com/encryptic-team/encryptic>
-* YunoHost documentation for this app: <https://yunohost.org/app_encryptic>
+* YunoHost Store: <https://apps.yunohost.org/app/encryptic>
 * Report a bug: <https://github.com/YunoHost-Apps/encryptic_ynh/issues>
 
 ## Developer info
