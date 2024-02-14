@@ -7,7 +7,7 @@ description.fr = "Application de prise de notes open source axée sur le chiffre
 
 version = "0.1.0~ynh4"
 
-maintainers = ["eric_G"]
+maintainers = []
 
 [upstream]
 license = "MPL-2.0"
